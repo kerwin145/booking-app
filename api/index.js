@@ -8,7 +8,6 @@ import hotelsRoute from './routes/hotels.js'
 import roomsRoute from './routes/rooms.js'
 import usersRoute from './routes/users.js'
 
-
 const app = express()
 dotenv.config()
 const PORT = 3000
